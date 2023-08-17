@@ -2,7 +2,7 @@ ULTERA Data Templates Repository: [github.com/PhasesResearchLab/ULTERA-contribut
 
 ## This Dataset
 
-- _Your name, affiliation, and contact_
+- _Lucie Farrell, Penn State University, lqf5273@psu.edu
 - _Brief description_
 - _Anything else you like to say_
 
