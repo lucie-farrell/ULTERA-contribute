@@ -1,0 +1,74 @@
+Name:,Lucie Farrell
+Email:,lqf5273@psu.edu
+Direct Fetched:,F
+Hand Fetched:,T
+Comment:,Collecting data from Table C1 of Yong-Jie Hu's paper on Screening of generalized stacking fault energies, surface energies and
+intrinsic ductile potency of refractory multicomponent alloys (DOI: 10.1016/j.actamat.2021.116800).
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,2.1,None,%,None,10.1016/j.intermet.2011.01.004
+None,V Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,1.7,None,%,None,10.1016/j.intermet.2011.01.004
+None,V Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,8.8,None,%,None,10.1016/j.msea.2017.12.021
+None,Ti Zr Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,10.12,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf Nb0.5 Mo,BCC,None,None,compressive ductility,EXP,None,298,13.02,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf Nb1.5 Mo,BCC,None,None,compressive ductility,EXP,None,298,23.97,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti0.5  Zr Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,12.08,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti1.5 Zr Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,28.98,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr0.5 Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,18.02,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr1.5 Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,16.09,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf0.5 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,12.09,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf1.5 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,16.83,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf0.5 Nb Mo0.5,BCC,None,None,compressive ductility,EXP,None,298,24.61,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf Nb Mo1.5,BCC,None,None,compressive ductility,EXP,None,298,10.83,None,%,None,10.1016/j.intermet.2015.10.011
+None,Ti Zr Hf Nb Ta,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.jallcom.2011.02.171
+None,Ti Zr Hf Nb Ta,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Hf Nb Ta Mo0.25,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Hf Nb Ta Mo0.5,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Hf Nb Ta Mo0.75,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Hf Nb Ta Mo,BCC,None,None,compressive ductility,EXP,None,298,12.0,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,33.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V0.25 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,30.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V0.5 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,28.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V0.75 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,29.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,26.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V1.5 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,20.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V2 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,23.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti Zr V3 Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,24.0,None,%,None,10.1007/s11837-012-0366-5
+None,Ti V Nb Ta,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.msea.2016.07.102
+None,Ti V Nb Ta W,BCC,None,None,compressive ductility,EXP,None,298,20.0,None,%,None,10.1016/j.msea.2016.07.102
+None,Nb Ta V W,BCC,None,None,compressive ductility,EXP,None,298,12.0,None,%,None,10.1016/j.msea.2016.07.102
+None,Ti Zr V Nb,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.proeng.2012.03.043
+None,Ti Zr V2 Nb,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.proeng.2012.03.043
+None,Ti V Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,25.62,None,%,None,10.1016/j.matlet.2016.03.133
+None,Ti Zr Hf V Nb,BCC,None,None,compressive ductility,EXP,None,298,29.6,None,%,None,10.1016/j.ijrmhm.2014.07.009
+None,Ti Zr Hf Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,10.2,None,%,None,10.1016/j.matdes.2015.05.019
+None,Ti V Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,10.6,None,%,None,10.1016/j.intermet.2017.01.007
+None,Ti Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,14.1,None,%,None,10.1016/j.intermet.2017.01.007
+None,Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,2.6,None,%,None,10.1016/j.intermet.2017.01.007
+None,V Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,1.7,None,%,None,10.1016/j.intermet.2017.01.007
+None,Ti Zr V Nb,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb,BCC,None,None,compressive ductility,EXP,None,298,45.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V Nb Mo0.3,BCC,None,None,compressive ductility,EXP,None,298,42.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V Nb Mo0.5,BCC,None,None,compressive ductility,EXP,None,298,32.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V Nb Mo0.7,BCC,None,None,compressive ductility,EXP,None,298,32.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V Nb Mo,BCC,None,None,compressive ductility,EXP,None,298,32.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V Nb Mo1.3,BCC,None,None,compressive ductility,EXP,None,298,30.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo0.1,BCC,None,None,compressive ductility,EXP,None,298,45.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo0.3,BCC,None,None,compressive ductility,EXP,at least,298,50.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo0.5,BCC,None,None,compressive ductility,EXP,None,298,43.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo0.7,BCC,None,None,compressive ductility,EXP,None,298,26.6,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo1.0,BCC,None,None,compressive ductility,EXP,None,298,25.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo1.3,BCC,None,None,compressive ductility,EXP,None,298,20.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr V0.3 Nb Mo1.5,BCC,None,None,compressive ductility,EXP,None,298,8.0,None,%,None,10.1016/j.matdes.2015.06.072
+None,Ti Zr Hf0.5 Nb Mo0.5,BCC,None,None,compressive ductility,EXP,None,298,24.61,None,%,None,10.1016/j.intermet.2015.09.011
+None,Zr Hf Nb Ta,BCC,None,None,compressive ductility,EXP,None,298,34.0,None,%,None,10.1016/j.actamat.2016.01.018
+None,Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,1.9,None,%,None,10.1016/j.msea.2017.12.004
+None,Ti0.25 Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,2.5,None,%,None,10.1016/j.msea.2017.12.004
+None,Ti0.5 Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,5.9,None,%,None,10.1016/j.msea.2017.12.004
+None,Ti0.75 Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,8.4,None,%,None,10.1016/j.msea.2017.12.004
+None,Ti Nb Ta Mo W,BCC,None,None,compressive ductility,EXP,None,298,11.5,None,%,None,10.1016/j.msea.2017.12.004
+None,Ti V Nb Ta Mo,BCC,None,None,compressive ductility,EXP,None,298,30.0,None,%,None,10.1016/j.jallcom.2016.11.188
+None,Ti38 Hf24 V15 Nb23,BCC,None,None,tensile ductility,EXP,None,298,20.6,None,%,None,10.1038/s41563-020-0750-4
+None,Ti Zr Hf Nb Ta,BCC,None,None,tensile ductility,EXP,None,298,9.7,None,%,None,10.1016/j.jallcom.2015.07.209
+None,Ti Zr Hf Nb,BCC,None,None,tensile ductility,EXP,None,298,14.9,None,%,None,10.1016/j.matlet.2014.09.044
+None,Ti1.5 ZrHf0.5 Nb0.5 Ta0.5,BCC,None,None,tensile ductility,EXP,None,298,18.8,None,%,None,10.1063/1.4966659

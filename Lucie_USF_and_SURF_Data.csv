@@ -1,0 +1,103 @@
+Name:,Lucie Farrell
+Email:,lqf5273@psu.edu
+Direct Fetched:,F
+Hand Fetched:,T
+Comment:,Collecting data from Table 3 of Yong-Jie Hu's paper on Screening of generalized stacking fault energies, surface energies and
+intrinsic ductile potency of refractory multicomponent alloys (DOI: 10.1016/j.actamat.2021.116800). 
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,Ti12 Hf4 Nb2 Ta6,BCC,None,None,USF,DFT,None,0.0,0.489,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti13 Hf2 Nb4 Ta5,BCC,None,None,USF,DFT,None,0.0,0.489,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti5 Hf3 V14 Ta2,BCC,None,None,USF,DFT,None,0.0,0.604,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti8 Hf2 V9 Ta5,BCC,None,None,USF,DFT,None,0.0,0.532,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti10 Hf2 V2 Ta10,BCC,None,None,USF,DFT,None,0.0,0.535,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti8 V7 Nb2 Ta7,BCC,None,None,USF,DFT,None,0.0,0.532,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti3 V8 Ta5 W8,BCC,None,None,USF,DFT,None,0.0,0.986,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti4 V6 Ta3 W11,BCC,None,None,USF,DFT,None,0.0,1.071,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti2 V10 Ta8 W4,BCC,None,None,USF,DFT,None,0.0,0.855,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti4 V3 Ta14 W3,BCC,None,None,USF,DFT,None,0.0,0.75,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf3 V13 Nb2 Ta6,BCC,None,None,USF,DFT,None,0.0,0.607,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf2 V7 Nb4 Ta11,BCC,None,None,USF,DFT,None,0.0,1.113,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf2 W15 Re5 Ru12,BCC,None,None,USF,DFT,None,0.0,1.236,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Mo10 W6 Re6,BCC,None,None,USF,DFT,None,0.0,1.276,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V11 Nb2 Mo2 W9,BCC,None,None,USF,DFT,None,0.0,1.178,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V7 Nb2 Ta8 W7,BCC,None,None,USF,DFT,None,0.0,1.006,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V7 Nb3 Ta8 W6,BCC,None,None,USF,DFT,None,0.0,0.951,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V5 Nb2 Ta7 W10,BCC,None,None,USF,DFT,None,0.0,1.158,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V4 Ta12 Mo3 W5,BCC,None,None,USF,DFT,None,0.0,1.033,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V4 Ta3 Mo5 W12,BCC,None,None,USF,DFT,None,0.0,1.583,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V5 Ta6 Mo2 W11,BCC,None,None,USF,DFT,None,0.0,1.323,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V6 W11 Re5 Ru2,BCC,None,None,USF,DFT,None,0.0,1.339,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta2 Mo3 W13 Re6,BCC,None,None,USF,DFT,None,0.0,1.34,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta3 W16 Re3 Ru2,BCC,None,None,USF,DFT,None,0.0,1.32,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Mo10 W6 Re6 Ru2,BCC,None,None,USF,DFT,None,0.0,1.04,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti2 Nb2 Mo3 W17,BCC,None,None,USF,DFT,None,0.0,1.639,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Ta2 Mo2 W18,BCC,None,None,USF,DFT,None,0.0,1.749,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Ta3 W17 Re2,BCC,None,None,USF,DFT,None,0.0,1.712,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 Mo2 W18,BCC,None,None,USF,DFT,None,0.0,1.743,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 W18 Re2,BCC,None,None,USF,DFT,None,0.0,1.689,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta3 Mo3 W16 Re2,BCC,None,None,USF,DFT,None,0.0,1.632,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,Ti12 Hf4 Nb2 Ta6,BCC,None,None,SURF,DFT,None,0.0,1.897,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti13 Hf2 Nb4 Ta5,BCC,None,None,SURF,DFT,None,0.0,1.899,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti5 Hf3 V14 Ta2,BCC,None,None,SURF,DFT,None,0.0,2.041,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti8 Hf2 V9 Ta5,BCC,None,None,SURF,DFT,None,0.0,2.005,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti10 Hf2 V2 Ta10,BCC,None,None,SURF,DFT,None,0.0,2.014,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti8 V7 Nb2 Ta7,BCC,None,None,SURF,DFT,None,0.0,2.053,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti3 V8 Ta5 W8,BCC,None,None,SURF,DFT,None,0.0,2.546,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti4 V6 Ta3 W11,BCC,None,None,SURF,DFT,None,0.0,2.616,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti2 V10 Ta8 W4,BCC,None,None,SURF,DFT,None,0.0,2.397,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti4 V3 Ta14 W3,BCC,None,None,SURF,DFT,None,0.0,2.294,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf3 V13 Nb2 Ta6,BCC,None,None,SURF,DFT,None,0.0,2.1,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf2 V7 Nb4 Ta11,BCC,None,None,SURF,DFT,None,0.0,2.631,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Hf2 W15 Re5 Ru12,BCC,None,None,SURF,DFT,None,0.0,2.858,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Mo10 W6 Re6,BCC,None,None,SURF,DFT,None,0.0,2.931,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V11 Nb2 Mo2 W9,BCC,None,None,SURF,DFT,None,0.0,2.664,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V7 Nb2 Ta8 W7,BCC,None,None,SURF,DFT,None,0.0,2.569,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V7 Nb3 Ta8 W6,BCC,None,None,SURF,DFT,None,0.0,2.508,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V5 Nb2 Ta7 W10,BCC,None,None,SURF,DFT,None,0.0,2.7,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V4 Ta12 Mo3 W5,BCC,None,None,SURF,DFT,None,0.0,2.592,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V4 Ta3 Mo5 W12,BCC,None,None,SURF,DFT,None,0.0,2.952,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V5 Ta6 Mo2 W11,BCC,None,None,SURF,DFT,None,0.0,2.841,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V6 W11 Re5 Ru2,BCC,None,None,SURF,DFT,None,0.0,2.993,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta2 Mo3 W13 Re6,BCC,None,None,SURF,DFT,None,0.0,3.022,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta3 W16 Re3 Ru2,BCC,None,None,SURF,DFT,None,0.0,2.967,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Mo10 W6 Re6 Ru2,BCC,None,None,SURF,DFT,None,0.0,2.84,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ti2 Nb2 Mo3 W17,BCC,None,None,SURF,DFT,None,0.0,2.976,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Ta2 Mo2 W18,BCC,None,None,SURF,DFT,None,0.0,3.092,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,V2 Ta3 W17 Re2,BCC,None,None,SURF,DFT,None,0.0,3.1,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 Mo2 W18,BCC,None,None,SURF,DFT,None,0.0,3.054,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 W18 Re2,BCC,None,None,SURF,DFT,None,0.0,3.07,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,Ta3 Mo3 W16 Re2,BCC,None,None,SURF,DFT,None,0.0,3.077,None,J/(m^2),T3,10.1016/j.actamat.2021.116800
+None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,Ti12 Hf4 Nb2 Ta6,BCC,None,None,d parameter,DFT,None,0.0,3.88,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti13 Hf2 Nb4 Ta5,BCC,None,None,d parameter,DFT,None,0.0,3.886,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti5 Hf3 V14 Ta2,BCC,None,None,d parameter,DFT,None,0.0,3.379,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti8 Hf2 V9 Ta5,BCC,None,None,d parameter,DFT,None,0.0,3.77,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti10 Hf2 V2 Ta10,BCC,None,None,d parameter,DFT,None,0.0,3.765,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti8 V7 Nb2 Ta7,BCC,None,None,d parameter,DFT,None,0.0,3.859,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti3 V8 Ta5 W8,BCC,None,None,d parameter,DFT,None,0.0,2.583,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti4 V6 Ta3 W11,BCC,None,None,d parameter,DFT,None,0.0,2.444,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti2 V10 Ta8 W4,BCC,None,None,d parameter,DFT,None,0.0,2.804,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti4 V3 Ta14 W3,BCC,None,None,d parameter,DFT,None,0.0,3.06,None,None,T3,10.1016/j.actamat.2021.116800
+None,Hf3 V13 Nb2 Ta6,BCC,None,None,d parameter,DFT,None,0.0,3.462,None,None,T3,10.1016/j.actamat.2021.116800
+None,Hf2 V7 Nb4 Ta11,BCC,None,None,d parameter,DFT,None,0.0,2.365,None,None,T3,10.1016/j.actamat.2021.116800
+None,Hf2 W15 Re5 Ru12,BCC,None,None,d parameter,DFT,None,0.0,2.313,None,None,T3,10.1016/j.actamat.2021.116800
+None,V2 Mo10 W6 Re6,BCC,None,None,d parameter,DFT,None,0.0,2.298,None,None,T3,10.1016/j.actamat.2021.116800
+None,V11 Nb2 Mo2 W9,BCC,None,None,d parameter,DFT,None,0.0,2.261,None,None,T3,10.1016/j.actamat.2021.116800
+None,V7 Nb2 Ta8 W7,BCC,None,None,d parameter,DFT,None,0.0,2.554,None,None,T3,10.1016/j.actamat.2021.116800
+None,V7 Nb3 Ta8 W6,BCC,None,None,d parameter,DFT,None,0.0,2.638,None,None,T3,10.1016/j.actamat.2021.116800
+None,V5 Nb2 Ta7 W10,BCC,None,None,d parameter,DFT,None,0.0,2.331,None,None,T3,10.1016/j.actamat.2021.116800
+None,V4 Ta12 Mo3 W5,BCC,None,None,d parameter,DFT,None,0.0,2.51,None,None,T3,10.1016/j.actamat.2021.116800
+None,V4 Ta3 Mo5 W12,BCC,None,None,d parameter,DFT,None,0.0,1.865,None,None,T3,10.1016/j.actamat.2021.116800
+None,V5 Ta6 Mo2 W11,BCC,None,None,d parameter,DFT,None,0.0,2.148,None,None,T3,10.1016/j.actamat.2021.116800
+None,V6 W11 Re5 Ru2,BCC,None,None,d parameter,DFT,None,0.0,2.236,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ta2 Mo3 W13 Re6,BCC,None,None,d parameter,DFT,None,0.0,2.255,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ta3 W16 Re3 Ru2,BCC,None,None,d parameter,DFT,None,0.0,2.247,None,None,T3,10.1016/j.actamat.2021.116800
+None,Mo10 W6 Re6 Ru2,BCC,None,None,d parameter,DFT,None,0.0,2.731,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ti2 Nb2 Mo3 W17,BCC,None,None,d parameter,DFT,None,0.0,1.816,None,None,T3,10.1016/j.actamat.2021.116800
+None,V2 Ta2 Mo2 W18,BCC,None,None,d parameter,DFT,None,0.0,1.768,None,None,T3,10.1016/j.actamat.2021.116800
+None,V2 Ta3 W17 Re2,BCC,None,None,d parameter,DFT,None,0.0,1.81,None,None,T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 Mo2 W18,BCC,None,None,d parameter,DFT,None,0.0,1.752,None,None,T3,10.1016/j.actamat.2021.116800
+None,Nb2 Ta2 W18 Re2,BCC,None,None,d parameter,DFT,None,0.0,1.817,None,None,T3,10.1016/j.actamat.2021.116800
+None,Ta3 Mo3 W16 Re2,BCC,None,None,d parameter,DFT,None,0.0,1.885,None,None,T3,10.1016/j.actamat.2021.116800
