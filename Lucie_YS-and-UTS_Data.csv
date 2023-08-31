@@ -1,0 +1,1012 @@
+Name:,Lucie Farrell
+Email:,lqf5273@psu.edu
+Direct Fetched:,F
+Hand Fetched:,T
+Comment:,Collecting data from the Supplementary Datasheet of Wang, J., Kwon, H., Kim, H.S. et al.'s paper, A neural network model for high entropy alloy design (DOI: 10.1038/s41524-023-01010-x).
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,V10 Cr15 Fe40 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V10 Cr15 Mn5 Fe35 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V10 Cr15 Mn10 Fe30 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1223 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,\,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co20 Ni15,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co35,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 20 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Mn2.5 Fe45 Co30 Ni2.5,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 15 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Mn5 Fe45 Co30,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Fe45 Co20 Ni15,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.151864
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1223 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.156090
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.156090
+None,V10 Cr10 Fe40 Co30 Ni10,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,V10 Cr10 Fe50 Co30,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 873 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 973 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1023 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Fe15 Co30 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe15 Co20 Ni30,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe20 Co10 Ni35,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn10 Fe15 Co5 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe10 Co10 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,Cr20 Mn10 Fe20 Co30 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr25 Mn5 Fe10 Co20 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41524-017-0060-9
+None,Cr25 Mn5 Fe20 Co10 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41524-017-0060-9
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.041
+None,Cr10 Fe57.5 Co16.25 Ni16.25,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr10 Fe55 Co17.5 Ni17.5,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,C1 Cr12.5 Fe55 Co17.5 Ni10 Mo4,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C2 Cr12.5 Fe55 Co17.5 Ni10 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,Al15 Mn28.333 Fe28.333 Cu28.334,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 5 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 20 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1126/science.1254581
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr25 Mn25 Co25 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Fe33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn33.333 Fe33.333 Ni33.333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Fe50 Ni50,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Co50 Ni50,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1373 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 873 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 5 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 10 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,Cr10 Mn40 Fe40 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.057
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H, homogenized at 1423 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 4 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 48 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,C1.3 Al9.9 Mn29.8 Fe59,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/0921-5093(91)90709-V
+None,Cr23 Mn31 Co23 Ni23,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139974
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139224
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139224
+None,V33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2021.107126
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 953 K for 14 min,YS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 5 min,YS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 10 min,YS,None,None,None,None,None,Pa,None,None
+None,Cr20 Fe20 Co20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr17.51 Fe17.51 Co17.51 Ni17.51 Cu29.96,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr20 Fe20 Co20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr17.51 Fe17.51 Co17.51 Ni17.51 Cu29.96,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H, homogenized at 1493 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H, homogenized at 1423 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 773 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Cr4 Mn28 Fe40 Ni28,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Cr12 Mn28 Fe40 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Cr18 Mn28 Fe40 Ni14,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 20 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H, homogenized at 1523 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1073 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+A, annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+A, annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+A, annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,Cr20.06 Mn19.91 Fe19.88 Co20.08 Ni20.07,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2018.09.029
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2018.09.029
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 923 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.08.011
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1080/02670836.2017.1342367
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 6 h,YS,None,None,None,None,None,Pa,None,10.1080/02670836.2017.1342367
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 4 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.03.403
+None,Cr18 Mn27.333 Fe27.334 Ni27.333,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.05.097
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr31 Co31 Ni31 Mo7,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.026
+None,Cr31 Co31 Ni31 Mo7,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.026
+None,Mn33.333 Fe33.334 Cu33.333,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.03.050
+None,Al7.5 Mn30.833 Fe30.834 Cu30.833,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.03.050
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 948 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.mtnano.2018.12.002
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtnano.2018.12.002
+None,V10 Cr15 Mn5 Fe35 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1023 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/ncomms15719
+None,Cr10 Mn40 Fe40 Co10,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.057
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H, homogenized at 1523 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H, homogenized at 1523 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,C1 Cr12.5 Fe55 Co17.5 Ni10 Mo4,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C2 Cr12.5 Fe55 Co17.5 Ni10 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C0.03 Cr6.22 Mn23.1 Fe23.9 Co23.29 Ni23.46,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C0.53 Cr6.42 Mn23.67 Fe23.97 Co23.17 Ni22.24,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C0.95 Cr6.31 Mn23.14 Fe23.13 Co23.14 Ni23.33,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C2.11 Cr6.23 Mn22.02 Fe22.41 Co23.42 Ni23.81,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+A, annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.12.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1423 K,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 573 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 673 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 773 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 923 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,YS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 673 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 673 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC+A, annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al3.7 Cr18.52 Fe18.52 Co18.52 Ni37.04 Cu3.7,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 20 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.04.111
+None,Al3.7 Cr18.52 Fe18.52 Co18.52 Ni37.04 Cu3.7,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.04.111
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 15 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 773 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 36 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2018.08.048
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr32 Co32 Ni32 Mo4,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 4 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.08.036
+None,Cr32 Co32 Ni32 Mo4,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.08.036
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Fe33.34 Co33.33 Ni33.33,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.154457
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 7 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Al9.09 Cr30.303 Co30.303 Ni30.304,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100442
+None,Al9.09 Cr30.303 Co30.303 Ni30.304,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100442
+None,Cr2.3 Mn20.7 Fe42.2 Co5.9 Ni28.9,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.2 Mn24.1 Fe41.1 Co5.5 Ni27.1,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.1 Mn27 Fe40 Co5.2 Ni25.7,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.4 Mn33.9 Fe29.4 Co5.8 Ni28.5,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.4 Mn37.6 Fe25.7 Co5.8 Ni28.5,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr25 Mn25 Fe25 Ni25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Mn25 Fe25 Ni25,None, AC+H, homogenized at 1173 K,YS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Mn25 Fe25 Ni25,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Fe25 Co25 Ni25,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2015.08.076
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 5 h,YS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.05.224
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1080/21663831.2016.1257514
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+A, annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1080/21663831.2016.1257514
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 998 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al16.67 Cr16.67 Fe33.33 Ni33.33,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.01.096
+None,Al16.665 Cr16.665 Fe16.67 Co16.67 Ni33.33,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al16.13 Cr16.13 Fe16.13 Co16.13 Ni35.48,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al12.28 Cr17.54 Fe35.1 Co17.54 Ni17.54,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2016.04.014
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr25 Fe25 Co25 Ni25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr24.39 Fe24.39 Co24.39 Ni24.39 Mo2.44,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.81 Fe23.81 Co23.81 Ni23.81 Mo4.76,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC+A, annealed at 1123 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC+A, annealed at 1173 K for 5 h,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Al8 Cr17 Fe17 Co17 Ni33 Cu8,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1007/s11837-013-0756-3
+None,Al8 Cr17 Fe17 Co17 Ni33 Cu8,None, AC+H, homogenized at 1423 K,YS,None,None,None,None,None,Pa,None,10.1007/s11837-013-0756-3
+None,Cr10 Mn30 Fe50 Co10,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr32.26 Co32.26 Ni32.26 Mo3.22,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr31.25 Co31.25 Ni31.25 Mo6.25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.153512
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC, ,YS,None,None,None,None,None,Pa,None,10.3390/e20120917
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC, ,YS,None,None,None,None,None,Pa,None,10.3390/e20120917
+None,Al5 Cr12 Mn28 Fe35 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al10 Cr12 Mn23 Fe35 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al5 Cr12 Mn28 Fe35 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al10 Cr12 Mn23 Fe35 Ni20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Cr18 Mn20 Fe35 Co21 Ni6,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140264
+None,Cr18 Mn20 Fe35 Co21 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140264
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1148 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139587
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 8 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139587
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Al6.52 Cr21.74 Fe21.74 Co21.74 Ni21.74 Cu6.52,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.3390/e20120967
+None,Al6.52 Cr21.74 Fe21.74 Co21.74 Ni21.74 Cu6.52,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 5 h,YS,None,None,None,None,None,Pa,None,10.3390/e20120967
+None,Cr20 Mn20 Co20 Ni20 Cu20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1039/C9NR08338C
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 15 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 22 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100404
+None,Cr10 Mn10 Fe10 Co10 Ni60,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100404
+None,Cr10 Mn50 Fe20 Co10 Ni10,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.11.055
+None,Cr10 Mn50 Fe20 Co10 Ni10,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 3 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.11.055
+None,Cr39.4 Co30.3 Ni30.3,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 6 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,Cr39.4 Co30.3 Ni30.3,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 6 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,Al15 Cr21.25 Fe21.25 Co21.25 Ni21.25,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,C3.3 Cr9.67 Mn38.68 Fe38.68 Co9.67,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140927
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al3.48 Cr16.65 Fe19.17 Co21.71 Ni38.99,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al6.63 Cr16.47 Fe17.38 Co17.69 Ni41.83,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al10.02 Cr13.54 Fe14.1 Co14.86 Ni47.48,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al10.52 Cr11.39 Fe12.25 Co13.25 Ni52.59,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1323 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C0.93 Cr19.814 Mn19.814 Fe19.814 Co19.814 Ni19.814,None, AC+H, homogenized at 1323 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C0.93 Cr19.814 Mn19.814 Fe19.814 Co19.814 Ni19.814,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.38 Cr19.724 Mn19.724 Fe19.724 Co19.724 Ni19.724,None, AC+H, homogenized at 1323 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.38 Cr19.724 Mn19.724 Fe19.724 Co19.724 Ni19.724,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.84 Cr19.632 Mn19.632 Fe19.632 Co19.632 Ni19.632,None, AC+H, homogenized at 1323 K,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.84 Cr19.632 Mn19.632 Fe19.632 Co19.632 Ni19.632,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H, homogenized at 1373 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 15 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 25 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Fe33.34 Co33.33 Ni33.33,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al7.14 Mn7.14 Fe28.58 Co28.57 Ni28.57,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al12.5 Mn12.5 Fe25 Co25 Ni25,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 1423 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 893 K for 50 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 823 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,V33.33 Co33.33 Ni33.34,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,V33.33 Co33.33 Ni33.34,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Cr14.29 Fe14.29 Ni35.71 Cu35.71,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr13.33 Mn6.68 Fe13.33 Ni33.33 Cu33.33,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr12.5 Mn12.5 Fe12.5 Ni31.25 Cu31.25,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr11.76 Mn17.66 Fe11.76 Ni29.41 Cu29.41,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr11.11 Mn22.22 Fe11.11 Ni27.78 Cu27.78,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr10.52 Mn26.32 Fe10.52 Ni26.32 Cu26.32,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr10 Mn30 Fe10 Ni25 Cu25,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr9.52 Mn33.34 Fe9.52 Ni23.81 Cu23.81,None, AC+H, homogenized at 1273 K,YS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Al9.1 Fe30.3 Co30.3 Ni30.3,None, AC+A, annealed at 1523 K for 10 min,YS,None,None,None,None,None,Pa,None,10.1038/s41598-020-61538-6
+None,Al9.1 Fe30.3 Co30.3 Ni30.3,None, AC+A, annealed at 973 K for 50 h,YS,None,None,None,None,None,Pa,None,10.1038/s41598-020-61538-6
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co23 Ni17,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co27 Ni13,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co30 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Al10 Fe34 Co17 Ni34 Mo5,None, AC+H+A, homogenized at 1573 K + annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2018.01.045
+None,Cr25 Fe35 Co35 Ni5,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138403
+None,Cr25 Fe26 Co35 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138403
+None,Al9.4 Fe31.9 Co30.1 Ni28.6,None, AC+H+A, homogenized at 1523 K + annealed at 1523 K for 5 min,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2020.100755
+None,Al9.4 Fe31.9 Co30.1 Ni28.6,None, AC+H+A, homogenized at 1523 K + annealed at 973 K for 50 h,YS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2020.100755
+None,Cr10 Mn30 Fe50 Co10,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C1 Cr9.9 Mn29.7 Fe49.5 Co9.9,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C2 Cr9.8 Mn29.4 Fe49 Co9.8,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C4 Cr9.6 Mn28.8 Fe48 Co9.6,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C6 Cr9.4 Mn28.2 Fe47 Co9.4,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,V25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1253 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107648
+None,Mn20 Fe20 Co20 Ni20 Cu20,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Fe25 Co25 Ni25 Cu25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Co25 Ni25 Cu25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Fe25 Ni25 Cu25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Fe25 Co25 Cu25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 30 min,YS,None,None,None,None,None,Pa,None,10.1007/s11661-020-05738-9
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC+A, annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Cr7 Mn25 Co9 Ni23 Cu36,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.008
+None,Cr10 Mn40 Fe40 Co10,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.01.045
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC+A, annealed at 1073 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC+A, annealed at 1073 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC+A, annealed at 1423 K for 24 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,Cr24.1 Fe24.1 Co24.1 Ni24.1 Mo3.6,None, AC+A, annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.155688
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe20 Co30 Ni20 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe15 Co40 Ni15 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe10 Co50 Ni10 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+A, annealed at 1373 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138424
+None,Al14 Cr28 Co28 Ni30,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1088/2053-1591/ab49d0
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.038
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H, homogenized at 1473 K,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,Cr20 Mn15 Fe15 Co35 Ni15,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.018
+None,Cr25 Mn15 Fe10 Co35 Ni15,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,YS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.018
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr33 Co33 Ni33 Mo1,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr31.66 Co31.67 Ni31.67 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,YS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Al10 Cr9 Mn36 Fe36 Ni9,None, AC, ,YS,None,None,None,None,None,Pa,None,10.1080/02670836.2020.1839194
+None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,V10 Cr15 Fe40 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V10 Cr15 Mn5 Fe35 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V10 Cr15 Mn10 Fe30 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.03.115
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1223 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V20 Cr15 Fe20 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.11.136
+None,V10 Cr10 Fe45 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co20 Ni15,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co35,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-019-39570-y
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 20 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Mn2.5 Fe45 Co30 Ni2.5,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 15 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Mn5 Fe45 Co30,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138809
+None,V10 Cr10 Fe45 Co20 Ni15,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.151864
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1223 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.156090
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.156090
+None,V10 Cr10 Fe40 Co30 Ni10,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,V10 Cr10 Fe45 Co30 Ni5,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,V10 Cr10 Fe50 Co30,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.06.026
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 873 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 973 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1023 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,Mn30 Co10 Ni40 Cu20,None, AC+H+A, homogenized at 1173 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152111
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr15 Fe14 Co30 Ni26,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V15 Cr20 Fe8 Co24 Ni33,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Fe15 Co30 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe15 Co20 Ni30,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe20 Co10 Ni35,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn10 Fe15 Co5 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,V10 Cr20 Mn5 Fe10 Co10 Ni45,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,Cr20 Mn10 Fe20 Co30 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr25 Mn5 Fe10 Co20 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41524-017-0060-9
+None,Cr25 Mn5 Fe20 Co10 Ni40,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41524-017-0060-9
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.041
+None,Cr10 Fe57.5 Co16.25 Ni16.25,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr10 Fe55 Co17.5 Ni17.5,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,C1 Cr12.5 Fe55 Co17.5 Ni10 Mo4,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C2 Cr12.5 Fe55 Co17.5 Ni10 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,Al15 Mn28.333 Fe28.333 Cu28.334,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 5 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 20 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1126/science.1254581
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr25 Mn25 Co25 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Fe33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn33.333 Fe33.333 Ni33.333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Mn33.333 Co33.333 Ni33.333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Fe50 Ni50,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Co50 Ni50,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2014.08.026
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,Cr20 Mn20 Fe40 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.153981
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1273 K + annealed at 1373 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2016.09.208
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 873 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2019.106578
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC+A, annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.054
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 5 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 948 K for 10 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Fe6 Co34 Ni34 Mo6,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.ijplas.2018.10.005
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,C1 Cr19.8 Mn19.8 Fe19.8 Co19.8 Ni19.8,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.050
+None,Cr10 Mn40 Fe40 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.057
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H, homogenized at 1423 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 4 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,Al7 Cr23.25 Fe23.25 Co23.25 Ni23.25,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 48 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.10.071
+None,C1.3 Al9.9 Mn29.8 Fe59,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/0921-5093(91)90709-V
+None,Cr23 Mn31 Co23 Ni23,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139974
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139224
+None,Cr33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139224
+None,V33.3333 Co33.3333 Ni33.3333,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2021.107126
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 953 K for 14 min,UTS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 5 min,UTS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,V7.99 Cr14.5 Mn3.25 Fe14.92 Co35.42 Ni21.43 Cu2.49,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 10 min,UTS,None,None,None,None,None,Pa,None,None
+None,Cr20 Fe20 Co20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr17.51 Fe17.51 Co17.51 Ni17.51 Cu29.96,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr20 Fe20 Co20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,Cr17.51 Fe17.51 Co17.51 Ni17.51 Cu29.96,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139241
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H, homogenized at 1493 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,C1.36 Cr20.14 Mn19.27 Fe19.42 Co20.06 Ni19.75,None, AC+H+A, homogenized at 1493 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.06.204
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H, homogenized at 1423 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 773 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Al5.27 Cr17.95 Mn20.12 Fe19.47 Co18.82 Ni18.37,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139446
+None,Cr4 Mn28 Fe40 Ni28,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Cr12 Mn28 Fe40 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Cr18 Mn28 Fe40 Ni14,None, AC+H+A, homogenized at 1273 K + annealed at 1123 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2015.08.007
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 20 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1323 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.03.088
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H, homogenized at 1523 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1073 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,Al10.12 Cr22.47 Fe22.47 Co22.47 Ni22.47,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107910
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.2 Cr19.96 Mn19.96 Fe19.96 Co19.96 Ni19.96,None, AC+A, annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+A, annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,C0.8 Cr19.84 Mn19.84 Fe19.84 Co19.84 Ni19.84,None, AC+A, annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.050
+None,Cr20.06 Mn19.91 Fe19.88 Co20.08 Ni20.07,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.93 Cr20.12 Mn20.05 Fe19.92 Co18.98 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2020.129073
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,C0.5 Cr10 Mn30 Fe49.5 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.04.050
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2018.06.004
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2018.09.029
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2018.09.029
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140752
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 923 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.02.048
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2017.08.011
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1080/02670836.2017.1342367
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 6 h,UTS,None,None,None,None,None,Pa,None,10.1080/02670836.2017.1342367
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 4 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.03.403
+None,Cr18 Mn27.333 Fe27.334 Ni27.333,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.05.097
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2013.06.018
+None,Cr31 Co31 Ni31 Mo7,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.026
+None,Cr31 Co31 Ni31 Mo7,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.026
+None,Mn33.333 Fe33.334 Cu33.333,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.03.050
+None,Al7.5 Mn30.833 Fe30.834 Cu30.833,None, AC+H+A, homogenized at 1073 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2020.03.050
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 948 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtnano.2018.12.002
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtnano.2018.12.002
+None,V10 Cr15 Mn5 Fe35 Co10 Ni25,None, AC+H+A, homogenized at 1373 K + annealed at 1023 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/ncomms15719
+None,Cr10 Mn40 Fe40 Co10,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.057
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H, homogenized at 1523 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co17.5 Ni10 Mo5,None, AC+H+A, homogenized at 1523 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H, homogenized at 1523 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,Cr12.5 Fe55 Co18 Ni7 Mo7.5,None, AC+H+A, homogenized at 1523 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.12.040
+None,C1 Cr12.5 Fe55 Co17.5 Ni10 Mo4,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C2 Cr12.5 Fe55 Co17.5 Ni10 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2020.07.023
+None,C0.03 Cr6.22 Mn23.1 Fe23.9 Co23.29 Ni23.46,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C0.53 Cr6.42 Mn23.67 Fe23.97 Co23.17 Ni22.24,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C0.95 Cr6.31 Mn23.14 Fe23.13 Co23.14 Ni23.33,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,C2.11 Cr6.23 Mn22.02 Fe22.41 Co23.42 Ni23.81,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+A, annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.152000
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.12.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1423 K,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 573 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 673 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 773 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 923 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-019-05231-y
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,Al13.04 Cr21.74 Fe21.74 Co21.74 Ni21.74,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 min,UTS,None,None,None,None,None,Pa,None,10.1007/s12613-020-2084-2
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 673 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 673 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,C0.63 Cr9.24 Mn30.48 Fe49.34 Co10.31,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2018.10.017
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Cr26 Mn20 Fe20 Co20 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2017.10.022
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al14.1 Cr6 Mn32.9 Fe28.2 Ni18.8,None, AC+A, annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.09.264
+None,Al3.7 Cr18.52 Fe18.52 Co18.52 Ni37.04 Cu3.7,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 20 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.04.111
+None,Al3.7 Cr18.52 Fe18.52 Co18.52 Ni37.04 Cu3.7,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.04.111
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 15 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Al9.09 Cr18.182 Mn18.182 Fe18.182 Co18.182 Ni18.182,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.05.041
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 923 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2017.07.079
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr2 Mn27 Fe40 Co5 Ni26,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2013.09.030
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 773 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.112
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 36 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2018.08.048
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 923 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr25 Fe37.5 Co35 Ni2.5,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2020.110291
+None,Cr32 Co32 Ni32 Mo4,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 4 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.08.036
+None,Cr32 Co32 Ni32 Mo4,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.08.036
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC+A, annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2016.08.048
+None,Fe33.34 Co33.33 Ni33.33,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.154457
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 7 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Cr12.5 Mn12.5 Fe50 Co12.5 Ni12.5,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.11.265
+None,Al9.09 Cr30.303 Co30.303 Ni30.304,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100442
+None,Al9.09 Cr30.303 Co30.303 Ni30.304,None, AC+H+A, homogenized at 1473 K + annealed at 1473 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100442
+None,Cr2.3 Mn20.7 Fe42.2 Co5.9 Ni28.9,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.2 Mn24.1 Fe41.1 Co5.5 Ni27.1,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.1 Mn27 Fe40 Co5.2 Ni25.7,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.4 Mn33.9 Fe29.4 Co5.8 Ni28.5,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr2.4 Mn37.6 Fe25.7 Co5.8 Ni28.5,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2015.09.010
+None,Cr25 Mn25 Fe25 Ni25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Mn25 Fe25 Ni25,None, AC+H, homogenized at 1173 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Mn25 Fe25 Ni25,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.vacuum.2020.109995
+None,Cr25 Fe25 Co25 Ni25,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2015.08.076
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Al9.09 Cr18.182 Fe18.182 Co18.182 Ni18.182 Cu18.182,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 5 h,UTS,None,None,None,None,None,Pa,None,10.1179/1743284714Y.0000000754
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 873 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,Cr20 Mn10 Fe40 Co20 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140441
+None,C0.5 Cr19.9 Mn19.9 Fe19.9 Co19.9 Ni19.9,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2015.05.224
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1080/21663831.2016.1257514
+None,Al2.44 Cr24.39 Fe24.39 Co24.39 Ni24.39,None, AC+A, annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1080/21663831.2016.1257514
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 998 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al3.125 Cr31.25 Co31.25 Ni31.25 Mo3.125,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139028
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2017.04.072
+None,Al16.67 Cr16.67 Fe33.33 Ni33.33,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.01.096
+None,Al16.665 Cr16.665 Fe16.67 Co16.67 Ni33.33,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al16.39 Cr16.39 Fe16.39 Co16.39 Ni34.44,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al16.13 Cr16.13 Fe16.13 Co16.13 Ni35.48,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.11.016
+None,Al12.28 Cr17.54 Fe35.1 Co17.54 Ni17.54,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2016.04.014
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1123 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr15 Fe20 Co35 Ni20 Mo10,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2017.05.019
+None,Cr25 Fe25 Co25 Ni25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr24.39 Fe24.39 Co24.39 Ni24.39 Mo2.44,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.81 Fe23.81 Co23.81 Ni23.81 Mo4.76,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC+A, annealed at 1123 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Cr23.26 Fe23.26 Co23.26 Ni23.26 Mo6.96,None, AC+A, annealed at 1173 K for 5 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2016.06.063
+None,Al8 Cr17 Fe17 Co17 Ni33 Cu8,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1007/s11837-013-0756-3
+None,Al8 Cr17 Fe17 Co17 Ni33 Cu8,None, AC+H, homogenized at 1423 K,UTS,None,None,None,None,None,Pa,None,10.1007/s11837-013-0756-3
+None,Cr10 Mn30 Fe50 Co10,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr10 Mn30 Fe50 Co10,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2017.03.069
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr32.26 Co32.26 Ni32.26 Mo3.22,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr31.25 Co31.25 Ni31.25 Mo6.25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1557/jmr.2020.256
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.153512
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr19.88 Mn18.39 Fe21.04 Co19.89 Ni20.8,None, AC+H+A, homogenized at 1373 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139472
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 873 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Cr20 Mn20 Fe20 Ni20 Cu20,None, AC+H+A, homogenized at 1273 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchar.2019.05.043
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.3390/e20120917
+None,Al11.111 Cr22.222 Fe22.222 Co22.222 Ni22.222,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.3390/e20120917
+None,Al5 Cr12 Mn28 Fe35 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al10 Cr12 Mn23 Fe35 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al5 Cr12 Mn28 Fe35 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Al10 Cr12 Mn23 Fe35 Ni20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.05.056
+None,Cr18 Mn20 Fe35 Co21 Ni6,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140264
+None,Cr18 Mn20 Fe35 Co21 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140264
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1148 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139587
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 8 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139587
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 1023 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Cr16 Fe42 Co42,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139371
+None,Al6.52 Cr21.74 Fe21.74 Co21.74 Ni21.74 Cu6.52,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.3390/e20120967
+None,Al6.52 Cr21.74 Fe21.74 Co21.74 Ni21.74 Cu6.52,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 5 h,UTS,None,None,None,None,None,Pa,None,10.3390/e20120967
+None,Cr20 Mn20 Co20 Ni20 Cu20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1039/C9NR08338C
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 15 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 22 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123073
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100404
+None,Cr10 Mn10 Fe10 Co10 Ni60,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2019.100404
+None,Cr10 Mn50 Fe20 Co10 Ni10,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.11.055
+None,Cr10 Mn50 Fe20 Co10 Ni10,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 3 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.11.055
+None,Cr39.4 Co30.3 Ni30.3,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 6 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,Cr39.4 Co30.3 Ni30.3,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 6 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,Al15 Cr21.25 Fe21.25 Co21.25 Ni21.25,None, AC+H+A, homogenized at 1423 K + annealed at 1373 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139122
+None,C3.3 Cr9.67 Mn38.68 Fe38.68 Co9.67,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.140927
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al3.48 Cr16.65 Fe19.17 Co21.71 Ni38.99,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al6.63 Cr16.47 Fe17.38 Co17.69 Ni41.83,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al10.02 Cr13.54 Fe14.1 Co14.86 Ni47.48,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Al10.52 Cr11.39 Fe12.25 Co13.25 Ni52.59,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 16 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.138940
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Al3 Cr32.34 Co32.33 Ni32.33,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 2 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.02.073
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn24 Fe30 Co20 Ni6,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn15 Fe34 Co20 Ni11,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.140661
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H, homogenized at 1323 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C0.93 Cr19.814 Mn19.814 Fe19.814 Co19.814 Ni19.814,None, AC+H, homogenized at 1323 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C0.93 Cr19.814 Mn19.814 Fe19.814 Co19.814 Ni19.814,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.38 Cr19.724 Mn19.724 Fe19.724 Co19.724 Ni19.724,None, AC+H, homogenized at 1323 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.38 Cr19.724 Mn19.724 Fe19.724 Co19.724 Ni19.724,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.84 Cr19.632 Mn19.632 Fe19.632 Co19.632 Ni19.632,None, AC+H, homogenized at 1323 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,C1.84 Cr19.632 Mn19.632 Fe19.632 Co19.632 Ni19.632,None, AC+H+A, homogenized at 1323 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2018.01.348
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H, homogenized at 1373 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 15 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Al4.76 Cr23.81 Fe23.81 Co23.81 Ni23.81,None, AC+H+A, homogenized at 1373 K + annealed at 823 K for 25 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138526
+None,Fe33.34 Co33.33 Ni33.33,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al7.14 Mn7.14 Fe28.58 Co28.57 Ni28.57,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al12.5 Mn12.5 Fe25 Co25 Ni25,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2017.04.007
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 1423 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 893 K for 50 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+H+A, homogenized at 1423 K + annealed at 823 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138620
+None,V33.33 Co33.33 Ni33.34,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,V33.33 Co33.33 Ni33.34,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al3 V32.33 Co32.33 Ni32.34,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1123 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Al7 V31 Co31 Ni31,None, AC+H+A, homogenized at 1373 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2021.141054
+None,Cr14.29 Fe14.29 Ni35.71 Cu35.71,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr13.33 Mn6.68 Fe13.33 Ni33.33 Cu33.33,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr12.5 Mn12.5 Fe12.5 Ni31.25 Cu31.25,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr11.76 Mn17.66 Fe11.76 Ni29.41 Cu29.41,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr11.11 Mn22.22 Fe11.11 Ni27.78 Cu27.78,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr10.52 Mn26.32 Fe10.52 Ni26.32 Cu26.32,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr10 Mn30 Fe10 Ni25 Cu25,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Cr9.52 Mn33.34 Fe9.52 Ni23.81 Cu23.81,None, AC+H, homogenized at 1273 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.intermet.2016.06.011
+None,Al9.1 Fe30.3 Co30.3 Ni30.3,None, AC+A, annealed at 1523 K for 10 min,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-020-61538-6
+None,Al9.1 Fe30.3 Co30.3 Ni30.3,None, AC+A, annealed at 973 K for 50 h,UTS,None,None,None,None,None,Pa,None,10.1038/s41598-020-61538-6
+None,Cr20 Mn20 Fe20 Co20 Ni20,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co23 Ni17,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co27 Ni13,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Cr20 Mn20 Fe20 Co30 Ni10,None, AC+H+A, homogenized at 1473 K + annealed at 1073 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2019.04.035
+None,Al10 Fe34 Co17 Ni34 Mo5,None, AC+H+A, homogenized at 1573 K + annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2018.01.045
+None,Cr25 Fe35 Co35 Ni5,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138403
+None,Cr25 Fe26 Co35 Ni14,None, AC+H+A, homogenized at 1473 K + annealed at 1423 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138403
+None,Al9.4 Fe31.9 Co30.1 Ni28.6,None, AC+H+A, homogenized at 1523 K + annealed at 1523 K for 5 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2020.100755
+None,Al9.4 Fe31.9 Co30.1 Ni28.6,None, AC+H+A, homogenized at 1523 K + annealed at 973 K for 50 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.mtla.2020.100755
+None,Cr10 Mn30 Fe50 Co10,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C1 Cr9.9 Mn29.7 Fe49.5 Co9.9,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C2 Cr9.8 Mn29.4 Fe49 Co9.8,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C4 Cr9.6 Mn28.8 Fe48 Co9.6,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,C6 Cr9.4 Mn28.2 Fe47 Co9.4,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matchemphys.2020.123501
+None,V25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1253 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matdes.2019.107648
+None,Mn20 Fe20 Co20 Ni20 Cu20,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Fe25 Co25 Ni25 Cu25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Co25 Ni25 Cu25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Fe25 Ni25 Cu25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Mn25 Fe25 Co25 Cu25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1002/adem.202000848
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 30 min,UTS,None,None,None,None,None,Pa,None,10.1007/s11661-020-05738-9
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC+A, annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.matlet.2016.05.122
+None,Cr7 Mn25 Co9 Ni23 Cu36,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.07.008
+None,Cr10 Mn40 Fe40 Co10,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2018.01.045
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,Al7.5 Cr6 Mn34.8 Fe40.4 Ni11.3,None, AC+A, annealed at 1073 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC+A, annealed at 1073 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,C1.1 Al7.42 Cr5.93 Mn34.42 Fe39.96 Ni11.17,None, AC+A, annealed at 1423 K for 24 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.01.083
+None,Cr24.1 Fe24.1 Co24.1 Ni24.1 Mo3.6,None, AC+A, annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jallcom.2020.155688
+None,Cr25 Fe25 Co25 Ni25,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe20 Co30 Ni20 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe15 Co40 Ni15 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Cr25 Fe10 Co50 Ni10 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.actamat.2019.09.050
+None,Al6.96 Cr23.26 Fe23.26 Co23.26 Ni23.26,None, AC+A, annealed at 1373 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2019.138424
+None,Al14 Cr28 Co28 Ni30,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1088/2053-1591/ab49d0
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.038
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H, homogenized at 1473 K,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 973 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,V10.64 Fe21.28 Co21.28 Ni42.55 Mo4.25,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.msea.2020.139027
+None,Cr20 Mn15 Fe15 Co35 Ni15,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.018
+None,Cr25 Mn15 Fe10 Co35 Ni15,None, AC+H+A, homogenized at 1473 K + annealed at 1273 K for 6 min,UTS,None,None,None,None,None,Pa,None,10.1016/j.scriptamat.2019.02.018
+None,Cr33.34 Co33.33 Ni33.33,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr33 Co33 Ni33 Mo1,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr32.34 Co32.33 Ni32.33 Mo3,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Cr31.66 Co31.67 Ni31.67 Mo5,None, AC+H+A, homogenized at 1473 K + annealed at 1173 K for 1 h,UTS,None,None,None,None,None,Pa,None,10.1016/j.jmst.2020.04.062
+None,Al10 Cr9 Mn36 Fe36 Ni9,None, AC, ,UTS,None,None,None,None,None,Pa,None,10.1080/02670836.2020.1839194
